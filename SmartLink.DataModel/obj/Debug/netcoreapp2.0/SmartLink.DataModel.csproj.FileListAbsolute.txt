@@ -1,0 +1,11 @@
+D:\Trainning\SmartLink\SmartLink.DataModel\bin\Debug\netcoreapp2.0\SmartLink.DataModel.deps.json
+D:\Trainning\SmartLink\SmartLink.DataModel\bin\Debug\netcoreapp2.0\SmartLink.DataModel.dll
+D:\Trainning\SmartLink\SmartLink.DataModel\obj\Debug\netcoreapp2.0\SmartLink.DataModel.csprojAssemblyReference.cache
+D:\Trainning\SmartLink\SmartLink.DataModel\obj\Debug\netcoreapp2.0\SmartLink.DataModel.csproj.CoreCompileInputs.cache
+D:\Trainning\SmartLink\SmartLink.DataModel\obj\Debug\netcoreapp2.0\SmartLink.DataModel.AssemblyInfoInputs.cache
+D:\Trainning\SmartLink\SmartLink.DataModel\obj\Debug\netcoreapp2.0\SmartLink.DataModel.AssemblyInfo.cs
+D:\Trainning\SmartLink\SmartLink.DataModel\bin\Debug\netcoreapp2.0\SmartLink.DataModel.runtimeconfig.json
+D:\Trainning\SmartLink\SmartLink.DataModel\bin\Debug\netcoreapp2.0\SmartLink.DataModel.runtimeconfig.dev.json
+D:\Trainning\SmartLink\SmartLink.DataModel\bin\Debug\netcoreapp2.0\SmartLink.DataModel.pdb
+D:\Trainning\SmartLink\SmartLink.DataModel\obj\Debug\netcoreapp2.0\SmartLink.DataModel.dll
+D:\Trainning\SmartLink\SmartLink.DataModel\obj\Debug\netcoreapp2.0\SmartLink.DataModel.pdb
